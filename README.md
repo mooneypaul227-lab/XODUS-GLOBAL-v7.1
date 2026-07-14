@@ -1,8 +1,4 @@
-# XODUS-Global-v7.1
-
-[![CI/CD](https://github.com/mooneypaul227-lab/X0DUS-GLOBAL-v7.1/actions/workflows/deploy.yml/badge.svg)](https://github.com/mooneypaul227-lab/X0DUS-GLOBAL-v7.1/actions/workflows/deploy.yml)
-[![Security Scan](https://github.com/mooneypaul227-lab/X0DUS-GLOBAL-v7.1/actions/workflows/security-scan.yml/badge.svg)](https://github.com/mooneypaul227-lab/X0DUS-GLOBAL-v7.1/actions/workflows/security-scan.yml)
-[![Code Coverage](https://codecov.io/gh/mooneypaul227-lab/X0DUS/branch/main/graph/badge.svg)](https://codecov.io/gh/mooneypaul227-lab/X0DUS-GLOBAL-v7.1
+## XODUS-Global-v7.1
 
 ## 🚀 Overview
 
@@ -18,6 +14,15 @@ XODUS-Global-v7.1 is a secure, multi-tenant edge ecosystem for AI agent deployme
 - 📈 Prometheus metrics
 - 🔍 Comprehensive logging
 
+- #[![CI/CD](https://github.com/mooneypaul227-lab/X0DUS-GLOBAL-v7.1/actions/workflows/deploy.yml/badge.svg)]
+
+#(https://github.com/mooneypaul227-lab/X0DUS-GLOBAL-v7.1/actions/workflows/deploy.yml)
+
+##[![Security Scan](https://github.com/mooneypaul227-lab/X0DUS-GLOBAL-v7.1/actions/workflows/security-scan.yml/badge.svg)](https://github.com/mooneypaul227-lab/X0DUS-GLOBAL-v7.1/actions/workflows/security-scan.yml)
+[![Code Coverage](https://codecov.io/gh/mooneypaul227-lab/X0DUS/branch/main/graph/badge.svg)]
+
+#(https://codecov.io/gh/mooneypaul227-lab/X0DUS-GLOBAL-v7.1
+
 ## 📋 Prerequisites
 
 - Python 3.9+
@@ -25,6 +30,7 @@ XODUS-Global-v7.1 is a secure, multi-tenant edge ecosystem for AI agent deployme
 - Redis 7+
 - HashiCorp Vault (optional)
 - AWS CLI (optional)
+- 
 
 ## 🛠️ Installation
 
@@ -32,4 +38,4 @@ XODUS-Global-v7.1 is a secure, multi-tenant edge ecosystem for AI agent deployme
 
 ```bash
 git clone https://github.com/mooneypaul227-lab/X0DUS-GLOBAL-v7.1.git
-cd X0DUS-GLOBAL-V7 
+cd X0DUS-GLOBAL-v7.1
